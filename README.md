@@ -1,1 +1,1 @@
-Shannon-Fano algorithm (cleanup and refactoring needed).
+Shannon-Fano algorithm (cleanup,refactoring and maintainability improvement needed).
