@@ -1,1 +1,1 @@
-shannon_fano
+Shannon-Fano algorithm (cleanup and refactoring needed) 
