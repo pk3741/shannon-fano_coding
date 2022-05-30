@@ -1,6 +1,6 @@
 # Shannon-Fano encoding algorithm
 ## Description:
-Simple algorithm which allows to arithmetically encode and decode message.
+Simple algorithm which allows to encode message using Shannon-Fano coding method.
 
 ## TODO:
 * cleanup 
